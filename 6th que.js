@@ -43,4 +43,4 @@ function fixOperator(x)
      
     let post_exp = "AB+CD-*";
    
-    document.write("Prefix : " + postToPre(post_exp));
+    console.log("Prefix : " + postToPre(post_exp));
